@@ -9,6 +9,6 @@ verb = input("Give me a (Past Tense) verb: ")
 
 #actual sentence
 
-''' Hi! My name is ___. I woke up at ___ to go to school, but school start at _____. 
- After walking my ____ I decided to go get ready! I changed into my favorite outfit- a dressy pants
- and a ______. Then it was time to eat my go to breakfast which is a _____.'''
+madlib = f"Hi! My name is {name}. I woke up at {time1} to go to school, but school start at {time2}.\ 
+ After walking my {pronoun} I decided to go get ready! I changed into my favorite outfit- a dressy pants \
+ and a {noun1}. Then it was time to eat my go to breakfast which is a {noun2}. I then {verb} to school."
